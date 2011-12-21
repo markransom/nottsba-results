@@ -1,0 +1,1 @@
+<tr><td><strong>Number of Teams</strong></td><td>Mixed x 2<br />Mens x 2<br />Ladies x 1</td></tr>
