@@ -56,7 +56,8 @@ sub definitions {
     	$templates=$here."/Templates";
 	$toptemplib=$here."/temp";
 	$toplivelib=$here."/live";
-	$topdevlib="C:/NottsBA";
+#	$topdevlib="C:/NottsBA";
+	$topdevlib=$here."/source";
 
 	$main = $here;
 
