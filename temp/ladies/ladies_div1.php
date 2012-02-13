@@ -28,6 +28,15 @@
   <td class='score_td'>4</td>
  </tr>
  <tr>
+  <td class='score_td_name'> <a href="./club_tables.php?cnm=east_leake">East Leake</a></td>
+  <td class='score_td'>3</td>
+  <td class='score_td'>2</td>
+  <td class='score_td'>1</td>
+  <td class='score_td'>15</td>
+  <td class='score_td'>12</td>
+  <td class='score_td'>4</td>
+ </tr>
+ <tr>
   <td class='score_td_name'> <a href="./club_tables.php?cnm=nottingham_vets">Nottingham Vets</a> 2nd</td>
   <td class='score_td'>3</td>
   <td class='score_td'>2</td>
@@ -38,20 +47,11 @@
  </tr>
  <tr>
   <td class='score_td_name'> <a href="./club_tables.php?cnm=bingham">Bingham</a> 3rd</td>
+  <td class='score_td'>3</td>
+  <td class='score_td'>1</td>
   <td class='score_td'>2</td>
-  <td class='score_td'>1</td>
-  <td class='score_td'>1</td>
-  <td class='score_td'>9</td>
-  <td class='score_td'>9</td>
-  <td class='score_td'>2</td>
- </tr>
- <tr>
-  <td class='score_td_name'> <a href="./club_tables.php?cnm=east_leake">East Leake</a></td>
-  <td class='score_td'>2</td>
-  <td class='score_td'>1</td>
-  <td class='score_td'>1</td>
-  <td class='score_td'>8</td>
-  <td class='score_td'>10</td>
+  <td class='score_td'>11</td>
+  <td class='score_td'>16</td>
   <td class='score_td'>2</td>
  </tr>
  <tr>
@@ -136,5 +136,12 @@
   <td class='score_td'></td>
   <td class='score_td'>4</td>
   <td class='score_td_name'> <a href="./club_tables.php?cnm=bingham">Bingham</a> 3rd</td>
+ </tr>
+ <tr>
+  <td class='score_td_name'> <a href="./club_tables.php?cnm=bingham">Bingham</a> 3rd</td>
+  <td class='score_td'>2</td>
+  <td class='score_td'></td>
+  <td class='score_td'>7</td>
+  <td class='score_td_name'> <a href="./club_tables.php?cnm=east_leake">East Leake</a></td>
  </tr>
 </table>
