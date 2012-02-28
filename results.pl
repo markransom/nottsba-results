@@ -12,6 +12,7 @@ sub main {
 	print "\n\nProcessing Current Season Results...";
 	loadnew();
 	folderloop();
+	print "\n\n";
 }
 
 #loop clubs

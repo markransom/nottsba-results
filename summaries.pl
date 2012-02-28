@@ -14,6 +14,7 @@ sub main {
 	print "\n\nProcessing Current Season Summaries...";
         loadnew();
         clubloop();
+	print "\n\n";
 }
 
 #loadnew
