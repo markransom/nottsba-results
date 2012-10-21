@@ -5,7 +5,7 @@ main();
 sub main {
 
 	$main="MAIN";
-	$newseason="2011-2012";
+	$newseason="2012-2013";
 
 	definitions();
 
@@ -259,7 +259,6 @@ sub scandir {
                            readdoc($document,$searchtext);
                            if ($found) {
                               stripcontent($document,$searchtext);
-                              $foundcount++;
                            }
                         }
 
@@ -422,7 +421,6 @@ sub addClubLinks {
                    chomp $search;
 
                    replacechomp($search);
-
                 }
 
         }
@@ -497,6 +495,7 @@ sub replacechomp 	{
 				if ($club eq $searchtext) {
 					$replacetext="<strong>$searchtext</strong>";
 					$classext="_highlight";
+					$foundcount++;
 				} else {
 					$classext="";
 				}
